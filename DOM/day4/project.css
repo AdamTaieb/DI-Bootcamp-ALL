@@ -1,0 +1,15 @@
+button {
+  grid-column: 1/4; 
+
+  background-color: whitesmoke; /* Green */
+  border: none;
+  border-radius: 8px;
+  color:black;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
